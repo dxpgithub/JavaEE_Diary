@@ -1,0 +1,70 @@
+*{
+	cursor: url(/diary/img/diarymouse.jpg),auto;
+}
+body{
+	background-image: url("/diary/img/Y0.png");
+	
+}
+.asidemain{
+	width: 300px;
+	height:365px;
+	background-color: #f4f4f4;
+	border-bottom: #000000 2px solid;
+	border-radius: 15px;
+}
+.asidemain img{
+	margin-top: 10px;
+	margin-left: 25px;
+	border-radius: 100%;
+	border-top: #000000 2px solid;
+}
+
+
+#UserMood{
+	text-align: center;
+}
+aside{
+	margin-left: 40px;
+	margin-top: 5px;
+	width: 20%;
+	float: left;
+}
+.data_list_title{
+	border-bottom: #000000 2px solid;
+}
+.note_datas {
+	margin-left: 50px;
+}
+.pagination{
+	align-content: center;
+}
+section{
+	float: left;
+	width: 70%;
+	height:590px;
+	margin-top: 10px;
+	margin-left: 25px;
+	
+	background-color:rgba(244,244,244,0.7);
+}
+
+.asidebottom{
+	width: 300px;
+	height:180px;
+	margin-top: 10px;
+	border-radius: 15px;
+	background-color:rgba(244,244,244,0.7);
+	border-bottom: #000000 2px solid;
+} 
+a{ text-decoration:none; } 
+.bottom-left{
+	float: left;
+	width: 50%;
+	height: 100%;
+	border-right: #000000 2px solid;
+}
+footer{
+	float: left;
+	margin-left: 125px;
+	
+}
